@@ -1,0 +1,15 @@
+streamlit==1.51.0
+imbalanced-learn==0.14.0
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.6.1
+scipy==1.16.3
+joblib==1.5.2
+seaborn
+matplotlib
+scikit-plot
+pydeck
+protobuf
+requests
+altair
+watchdog
